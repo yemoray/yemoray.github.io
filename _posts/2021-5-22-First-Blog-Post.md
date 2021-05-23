@@ -3,8 +3,20 @@ layout: post
 title: What does a Data Scientist do?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Prompts: 
+What do you think being a data scientist is about?
+What do you see as the major duties and/or knowledge areas?
+What differences/similarities do you see between data scientists and statisticians?
+How do you view yourself in relation to these two areas?
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+The Science Council (https://sciencecouncil.org) defines a scientist as "someone who systematically gathers and uses research as evidence, to make hypotheses and test them, to gain and share understanding and knowledge." By this definition, a data scientist is a scientist in every sense of the word, but with research tools that distinguishes the individual from a traditional scientist. These sets of unique research tools include the ability to gather massive amount of data, clean, transform, model and visualize the data, and tell a compelling story to help both individuals and organizations solve problems and make sound decisions.  Another distinction is that, similar to statisticians, data scientists also "get to play in everyone's backyard", to borrow a popular quote by John Wilder Tukey, just as long as they understand the rules of the game being played. As such, data scientists need subject matter expertise to understand the nuances and relevance of the data being worked on.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Apart from having domain knowledge, the two other pillars/knowledge areas a data scientist must have are statistical/analytics, and computer programming (especially languages like Java, Python, R, SAS and SQL). 
+
+
+References:
+
+https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f
+https://mixpanel.com/blog/2016/03/30/this-is-the-difference-between-statistics-and-data-science/
+https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article
+https://www.springboard.com/blog/machine-learning-engineer-vs-data-scientist/
