@@ -8,7 +8,7 @@ Hi there! Thanks for visiting my GitHub blog. This blog started as a requirement
 
 My interest in deepening my knowledge of statistics started a few years ago when I had to figure out how to predict the levels of 3 key starting materials to optimize multiple material properties (responses) simultaneously. After the initial panic subsided, I picked up Douglas Montgomery's best seller _Design and Analysis of Experiments_ and succeeded after figuring out the basic mechanics of the response surface methodology and using Minitab. I was blown away by the experience and began to imagine how much more I could do once I got a proper training in statistics. The  certificate is the first step and It's my desire to complete the Masters degree.
 
-#Fun and Hobbies 
+# Fun and Hobbies 
 I've lived in North Carolina for about 5 years (after 10 years in Northeast Ohio, loved Cleveland Downtown, the Cavs and the Blossom music festival. The winter, not so much.) My wife and I love it here and enjoyed our visits to the Biltmore estate 
 
 ![](https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,q_75,w_500/http://res.cloudinary.com/simpleview/image/upload/v1440619508/clients/asheville/untitled-16_8ec7db0c-5313-4519-aa60-57f45603df75.jpg)
