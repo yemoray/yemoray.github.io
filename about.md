@@ -10,7 +10,7 @@ My interest in deepening my knowledge of statistics started a few years ago when
 
 #Fun and Hobbies 
 I've lived in North Carolina for about 5 years (after 10 years in Northeast Ohio, loved Cleveland Downtown and the Blossom music festival. The winter, not so much.) My wife and I love it here and enjoyed our visits to the Biltmore estate 
-![](D:\OneDrive\Desktop\Biltmore.JPG)
+![](https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,q_75,w_500/http://res.cloudinary.com/simpleview/image/upload/v1440619508/clients/asheville/untitled-16_8ec7db0c-5313-4519-aa60-57f45603df75.jpg)
 
 ### Contact me
 
