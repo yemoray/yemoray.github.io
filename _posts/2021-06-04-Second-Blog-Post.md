@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post- What does a Data Scientist do?
+title: Second Post- Thoughts on the R programming langauge
 ---
 
 The Science Council (https://sciencecouncil.org) defines a scientist as "someone who systematically gathers and uses research as evidence, to make hypotheses and test them, to gain and share understanding and knowledge." By this definition, a data scientist is a scientist in every sense of the word, but with research tools that distinguishes the individual from a traditional scientist. These sets of unique research tools include the ability to gather massive amount of data, clean, transform, model and visualize the data, and tell a compelling story to help both individuals and organizations solve problems and make sound decisions.  Another distinction is that, similar to statisticians, data scientists also "get to play in everyone's backyard", to borrow a popular quote by John Wilder Tukey, just as long as they understand the rules of the game being played. As such, data scientists need subject matter expertise to understand the nuances and relevance of the data being worked on.
