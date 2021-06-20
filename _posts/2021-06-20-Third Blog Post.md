@@ -18,6 +18,8 @@ follow the NHL, some interesting trends were observed:
   as win divided by the sum of win, draws and losses).
 * Defenders tend to spend the longest time with the Dallas Stars, although most players spent 5 seasons or less.
 
+Working on the project took the better part of a week, mainly because of the time spent trying to understand the APIs and how to correcting write the functions (I've never written more than two nested `if` or `if else` statements before.) The task was also executed using the limited knowledge I have of R so far, it will be interesting  to learn better ways of writing the codes for this project as the semester progresses.
+
 Overall, this project further increased my familiarity with R. It was pretty rewarding to be able to pull data from APIs and gain some insight. It's something I'll definitely be
 interested in doing more of whether or not my career leads me down the data scientist path.
 
