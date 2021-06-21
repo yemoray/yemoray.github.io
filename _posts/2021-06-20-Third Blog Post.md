@@ -16,7 +16,8 @@ follow the NHL, some interesting trends were observed:
 * Teams that perform well at home during the regular season do well at home during the playoffs as well. 
 * Home advantage did not really count for much when the _percentage_ home wins were compared to the percentage road wins during the regular season. (The wins were calculated
   as win divided by the sum of win, draws and losses).
-* Defenders tend to spend the longest time with the Dallas Stars, although most players spent 5 seasons or less.
+* Defenders tend to spend the longest time with the Dallas Stars, although most players spent 5 seasons or less. 
+* Teams that are very aggressive also have the best defensive solidity and vice-versa.
 
 Working on the project took the better part of a week, mainly because of the time spent trying to understand the APIs and how to correcting write the functions (I've never written more than two nested `if` or `if else` statements before.) The task was also executed using the limited knowledge I have of R so far, it will be interesting  to learn better ways of writing the codes for this project as the semester progresses.
 
