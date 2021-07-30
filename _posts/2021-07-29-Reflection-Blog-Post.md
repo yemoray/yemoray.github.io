@@ -1,3 +1,10 @@
+---
+layout: post
+title: Reflection Blog Post
+---
+
+
+
 My thoughts about what a Data Scientist does has not changed since I wrote my initial blog posts, but I have a healthy respect and appreciation for what they do especially having done
 some work in Machine Learning.
 
